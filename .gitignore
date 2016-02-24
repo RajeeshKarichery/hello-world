@@ -1,5 +1,1 @@
-# exclude everything except directory r4/bar
-	/*
-    !/r4
-    /r4/*
-    !/r4/bar
+*.php
