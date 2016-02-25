@@ -7,4 +7,4 @@ India
 Kerala
 11111r2
 22222r2
-master....pull
+master....pull replace and fetch &merge
