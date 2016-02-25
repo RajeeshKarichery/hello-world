@@ -7,8 +7,4 @@ India
 Kerala
 11111r2
 master....pull replace and fetch &merge
-<<<<<<< HEAD
 working
-=======
-
->>>>>>> FETCH_HEAD
